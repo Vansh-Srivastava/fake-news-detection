@@ -204,7 +204,7 @@ Contributions are welcome.
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the GNU General Public License v3.0.
 
 ---
 
@@ -214,6 +214,6 @@ This project is licensed under the MIT License.
 
 B.Tech CSE (Data Science)
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Vansh-Srivastava
 
 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
