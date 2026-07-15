@@ -216,4 +216,4 @@ B.Tech CSE (Data Science)
 
 GitHub: https://github.com/Vansh-Srivastava
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+LinkedIn: https://www.linkedin.com/in/vansh-sri
