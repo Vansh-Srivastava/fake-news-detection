@@ -111,7 +111,7 @@ Fake-News-Detection/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Fake-News-Detection.git
+git clone https://github.com/Vansh-Srivastava/Fake-News-Detection.git
 ```
 
 Move into the project folder
